@@ -106,18 +106,8 @@ module.exports.createSession = function (req, res) {
 
         }
     })
-
-
-
-
-
-
-
-
-
-
-
 }
+
 //Handling the even when the sign-out button is clicked in /users/profile page
 module.exports.signOut=function(req,res){
 
